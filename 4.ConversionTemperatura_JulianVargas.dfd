@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+"Valor Temperatura en Celcius:"
+5
+1
+9
+valorTemp
+6
+1
+5
+faren
+20
+9/5 * valorTemp +32.
+4
+1
+15
+"En Farenheit:"
+4
+1
+5
+faren
+1
