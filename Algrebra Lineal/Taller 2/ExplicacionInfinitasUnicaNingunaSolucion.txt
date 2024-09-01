@@ -1,0 +1,40 @@
+Matriz aumentada:
+
+[ a  1 | 3 ]
+[ 1 a-1| 2 ]
+
+Reducir la matriz:
+Multiplicamos la primera fila por 1/a (Creyendo que a ≠ 0):
+[ 1 1/a | 3/a ]
+[ 1 a-1| 2   ]
+
+Restamos, primera fila R1 de la segunda fila R2:
+
+[ 1 1/a | 3/a ]
+[ 0 a-1-1/a| 2-3/a ]
+
+Simplificamos la segunda fila R2:
+
+[ 1 1/a | 3/a ]
+[ 0 (a^2 - a - 1)/a | (2a - 3)/a ]
+
+Para que el sistema tenga una solución única, el denominador y el numerador de (a^2 - a - 1)/a no deben ser cero.
+
+Para que el sistema tenga infinitas soluciones, a debe ser 3/2 y a^2 - a - 1 debe ser cero.
+
+Para que el sistema sea inconsistente, el denominador de la segunda fila debe ser cero y el numerador no debe ser cero.
+
+Resultado
+
+Para una solución única: a ≠ 0 y a^2 - a - 1 ≠ 0
+
+Para infinitas soluciones: a = 3/2 y a^2 - a - 1 = 0
+
+Para inconsistente: a = 0 o a^2 - a - 1 = 0 y 2a - 3 ≠ 0
+
+
+Para que el sistema tenga una solución única, significa que hay un único valor para 'a' que hará que las ecuaciones tengan una única solución para 'x' e 'y'. En este caso, necesitamos asegurarnos de que el denominador y el numerador de la fracción (a^2 - a - 1)/a no sean cero. Si alguno de ellos es cero, entonces el sistema no tendrá una solución única.
+
+Para que el sistema tenga infinitas soluciones, significa que hay muchos valores posibles para 'x' e 'y' que satisfacen ambas ecuaciones. En este caso, 'a' debe ser igual a 3/2 y a la vez, el resultado de la expresión a^2 - a - 1 debe ser cero. Estos valores específicos de 'a' hacen que el sistema tenga infinitas soluciones.
+
+Para que el sistema sea inconsistente, significa que las ecuaciones no tienen ninguna solución en común, es decir, no hay valores de 'x' e 'y' que satisfagan ambas ecuaciones al mismo tiempo. Para que esto suceda, el denominador de la segunda fila de la matriz debe ser cero, lo que indica que no hay solución, y al mismo tiempo, el numerador no debe ser cero para mantener la inconsistencia en el sistema.
