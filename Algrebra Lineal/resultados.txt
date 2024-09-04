@@ -1,0 +1,49 @@
+Ecuaciones:
+2x + y - z = 3.000000
+2x - 2y + 4z = 15.000000
+-x + 0.5y - z = 8.000000
+Ecuaciones:
+3.000000
+15.000000
+8.000000
+La solución es correcta.
+Ecuaciones:
+3.000000
+15.000000
+8.000000
+La solución es correcta.
+Ecuaciones:
+3.000000
+15.000000
+8.000000
+La solución es correcta.
+Ecuaciones:
+3.000000
+15.000000
+8.000000
+La solución es correcta.
+Ecuaciones:
+3.000000
+15.000000
+8.000000
+La solución es correcta.
+Ecuaciones:
+3.000000
+15.000000
+8.000000
+La solución es correcta.
+Ecuaciones:
+3.000000
+15.000000
+8.000000
+La solución es correcta.
+Ecuaciones:
+3.000004
+14.999988
+8.000024
+La solución es correcta.
+Ecuaciones:
+3.000040
+14.999880
+8.000240
+La solución es correcta.
